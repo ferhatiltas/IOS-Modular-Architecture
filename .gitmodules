@@ -4,3 +4,6 @@
 [submodule "CoreKit"]
 	path = CoreKit
 	url = https://github.com/ferhatiltas/CoreKit
+[submodule "NetworkKit"]
+	path = NetworkKit
+	url = https://github.com/ferhatiltas/NetworkKit
