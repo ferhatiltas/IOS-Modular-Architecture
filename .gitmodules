@@ -1,0 +1,3 @@
+[submodule "AnyApp"]
+	path = AnyApp
+	url = https://github.com/ferhatiltas/AnyApp
