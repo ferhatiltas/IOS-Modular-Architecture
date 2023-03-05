@@ -1,3 +1,6 @@
 [submodule "AnyApp"]
 	path = AnyApp
 	url = https://github.com/ferhatiltas/AnyApp
+[submodule "CoreKit"]
+	path = CoreKit
+	url = https://github.com/ferhatiltas/CoreKit
